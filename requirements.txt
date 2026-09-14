@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+psycopg2-binary
+sqlalchemy
+python-dotenv
+phik
+catboost
+scikit-learn
+boto3
